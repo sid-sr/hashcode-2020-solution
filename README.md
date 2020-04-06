@@ -7,6 +7,7 @@ Coded using Python 3 on Jupyter Notebook
 * Algorithms used: Greedy approach, Sorting
 * Total Score: 25,391,844
 * Leaderboard Position: 1826 
+* World: top 17%, India: top 6%
 
 ### Improvements to be made:
 1.    Dynamic updation of the greedy parameter based on visited array
