@@ -16,6 +16,6 @@ Coded using Python 3 on Jupyter Notebook
 
 ### Team Members:
 * Siddharth Sriraman
-* Vanathi G
+* [Vanathi G](https://github.com/vanathi-g)
 * Aditya Krishna P
 * Venkataraman N
